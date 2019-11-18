@@ -1,0 +1,89 @@
+table {
+    border-spacing : 0;
+    border-collapse : collapse;
+    white-space:nowrap;
+}
+table.alternate caption {
+    color:white;
+    background-color:black;
+    font-size:120%;
+}
+table.alternate td {
+    margin-left:2px;
+    margin-right:3px;
+}
+table tr td.numeric {
+    padding-left:8px;
+    text-align:right;
+}
+table.alternate tr {
+    cursor:pointer;
+}
+table.alternate thead tr {
+    background-color:#55555;
+    color:purple;
+}
+table.alternate tr:nth-child(odd) {
+    background-color:#999999;
+}
+table.alternate tr:nth-child(even) {
+    background-color:white;
+}
+body {
+    background-color:#CCCCCC;
+}
+table.alternate tbody tr:nth-child(even):hover {
+    background:linear-gradient(to right bottom, yellow , #CC99CC);
+}
+table.alternate tbody tr:nth-child(odd):hover {
+    background:linear-gradient(to right bottom, #CC99CC, yellow);
+}
+#details {
+    margin-top:5px;
+    border:1px black solid;
+    border-radius:7px;
+    padding:8px;
+    background-color:white;
+}
+#divtravail {
+    background-color:pink;
+}
+
+.masked {
+    visibility: collapse;
+    display:none;
+}
+div.saisie {
+    position:absolute;
+    right:30px;
+    bottom:30px;
+    border:3px purple solid;
+    background:linear-gradient(90deg,white, purple);
+    border-radius:7px;
+    padding:4px;
+    box-shadow:5px 5px 10px gray;
+}
+.saisie table tbody td:first-child {
+    text-align:right;
+    padding-right:3px;
+    font-style:italic;
+
+}
+
+.saisie input:focus, input:focus + label {
+    background:linear-gradient(135deg, yellow, #FAEA73 25%, yellow, #FAEA73 75%, yellow);
+}
+
+span.bouton{
+    background-color: #999999;
+    color: white;
+    border: 1px black solid;
+    border-radius: 4px;
+    margin-right: 5px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.saisie tfoot tr th:nth-child(2){
+    text-align: left;
+}
