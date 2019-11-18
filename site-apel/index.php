@@ -1,4 +1,5 @@
 <!-- Page PHP Unique -->
+<h3>Bienvenue sur le site de l'APEL Champagnat !</h3>
 <?php
 require_once 'poo/si.php';
 require_once 'poo/imetier.php';
