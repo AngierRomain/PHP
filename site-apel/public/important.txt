@@ -1,0 +1,4 @@
+
+index.php va ici pour forcer la racine dans un dossier qui ne craint rien. utile pour la sécurité
+
+php -S localhost:8000 -t public
