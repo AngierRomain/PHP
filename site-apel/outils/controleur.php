@@ -6,9 +6,7 @@ class Controleur{
     public function __construct()
     {
         $this->TB_MENUS = array(
-            'P2E' => 'rempP2E.php',
-            'M2E' => 'rempM2E.php',
-            'GP' => 'rempGP.php');
+            'ACC' => 'rempAccueil.php');
             session_start();
     }
 
@@ -24,7 +22,7 @@ class Controleur{
     }
 
     public function getCodeMenu(){
-        return $this->getVarSess('CODEMENU', 'P2E');
+        return $this->getVarSess('CODEMENU', 'ACC');
     }
 
     public function displayMenu(){
