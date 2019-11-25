@@ -42,11 +42,11 @@ class Controleur{
         $postdata = file_get_contents('php://input');
         if ($postdata==''){
             $pageEntiere = true;
-            include 'hf/debutpage.php';
+            include 'htmltemplates/debutpage.php';
             $REMP = $this->getRemplisseur();
             $REMP->fullDisplay();
             echo date('H:i:s');
-            include 'hf/finpage.php';
+            include 'htmltemplates/finpage.php';
         }else{
             $pageEntiere = false;
             echo '<br/>reçu dans controleur: $postdata='; var_dump($postdata);
