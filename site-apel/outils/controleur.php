@@ -45,7 +45,7 @@ class Controleur{
             include 'htmltemplates/debutpage.php';
             $REMP = $this->getRemplisseur();
             $REMP->fullDisplay();
-            echo date('H:i:s');
+            //echo date('H:i:s');
             include 'htmltemplates/finpage.php';
         }else{
             $pageEntiere = false;
