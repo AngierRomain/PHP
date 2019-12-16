@@ -4,7 +4,7 @@ UNE SEULE INSTANCE POSSIBLE : SINGLETON */
 class SI {
 	
 	const BDD_SERVER	= '127.0.0.1';
-	const BDD_NAME 	= 's5bd1';
+	const BDD_NAME 	= 'apelv2';
 	const BDD_LOGIN 	= 'root';
 	const BDD_PWD 	= '';
 	const BDD_SETNAMES = 'SET NAMES utf8';
