@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12baa97d-9f67-497d-9ab8-d8767abe7de4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W14CTvlTZsEbvNI1Zs6pPXhUOf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/contenus" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\site-apelv2\contenus" />
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\site-apelv2\vues" />
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\site-apelv2\scripts" />
+      <recent name="C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\site-apelv2\poo" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12baa97d-9f67-497d-9ab8-d8767abe7de4" name="Default Changelist" comment="" />
+      <created>1578303639753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578303639753</updated>
+      <workItem from="1578303640982" duration="12010000" />
+      <workItem from="1578555905761" duration="10062000" />
+      <workItem from="1578986017940" duration="11480000" />
+      <workItem from="1579246442837" duration="254000" />
+      <workItem from="1579247127812" duration="2203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="340" key="NewPhpFileDialog" timestamp="1578998602495">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="604" y="340" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1578998602495" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1578555917255">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1578555917255" />
+    <state x="762" y="0" width="781" height="840" key="dock-window-1" timestamp="1578306334708">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="762" y="0" width="781" height="840" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1578306334708" />
+    <state x="-6" y="0" width="781" height="840" key="dock-window-2" timestamp="1578307950280">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-6" y="0" width="781" height="840" key="dock-window-2/0.0.1536.834@0.0.1536.834" timestamp="1578307950280" />
+    <state x="416" y="100" width="1134" height="821" key="dock-window-3" timestamp="1578316813252">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="416" y="100" width="1134" height="821" key="dock-window-3/0.0.1536.834@0.0.1536.834" timestamp="1578316813252" />
+    <state x="762" y="0" width="781" height="840" key="dock-window-4" timestamp="1578318364490">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="762" y="0" width="781" height="840" key="dock-window-4/0.0.1536.834@0.0.1536.834" timestamp="1578318364490" />
+    <state x="194" y="0" width="1254" height="821" key="dock-window-5" timestamp="1578321427440">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="194" y="0" width="1254" height="821" key="dock-window-5/0.0.1536.834@0.0.1536.834" timestamp="1578321427440" />
+    <state x="462" y="154" width="611" height="526" key="find.popup" timestamp="1578990017802">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="462" y="154" width="611" height="526" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1578990017802" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1578992516754">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1578992516754" />
+  </component>
+</project>

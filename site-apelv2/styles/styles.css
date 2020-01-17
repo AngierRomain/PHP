@@ -1,0 +1,158 @@
+table {
+	border-spacing : 0;
+	border-collapse : collapse;
+	white-space:nowrap;
+}
+
+/*
+GESTION DU TABLEAU DES UTILISATEURS
+USER
+*/
+
+
+table.alternate {
+	display: inline-block; /*seperates the tbody from the header*/
+	height: 500px;
+	overflow-y: auto;
+	width: 100%;
+}
+
+
+/*
+USER
+*/
+
+
+table.alternate caption {
+	color:white;
+	background-color:black;
+	font-size:120%;
+}
+table.alternate td {
+	margin-left:2px;
+	margin-right:3px;
+}
+table tr td.numeric {
+	padding-left:8px;
+	text-align:right;
+}
+table.alternate tr {
+	cursor:pointer;
+}
+table.alternate thead tr {
+	background-color:#555555;
+	color:purple;
+}
+table.alternate tr:nth-child(odd) {
+	background-color:#999999;
+}
+table.alternate tr:nth-child(even) {
+	background-color:white;
+}
+body {
+	background-color: lightgrey;
+}
+table.alternate tbody tr:nth-child(even):hover {
+	background:linear-gradient(to right bottom, yellow , #CC99CC);
+}
+table.alternate tbody tr:nth-child(odd):hover {
+	background:linear-gradient(to right bottom, #CC99CC, yellow);
+}
+#details {
+	margin-top:5px;
+	border:1px black solid;
+	border-radius:7px;
+	padding:8px;
+	background-color:white;
+	width: auto;
+
+}
+#divtravail {
+	background-color:pink;
+}
+
+.masked {
+	visibility: collapse;
+	display:none;
+}
+div.saisie {
+	position:absolute;
+	right:30px;
+	bottom:30px;
+	border:3px purple solid;
+	background:linear-gradient(90deg,white, purple);
+	border-radius:7px;
+	padding:4px;
+	box-shadow:5px 5px 10px gray;
+}
+.saisie table tbody td:first-child {
+	text-align:right;
+	padding-right:3px;
+	font-style:italic;
+	
+}
+
+.saisie input:focus, input:focus + label {
+	background:linear-gradient(135deg, yellow, #FAEA73 25%, yellow, #FAEA73 75%, yellow);
+}
+
+span.bouton {
+	background-color:#bbbbbb;
+	color:white;
+	border-radius:4px;
+	margin-right:5px;
+	padding:3px;
+	cursor:pointer;
+}
+
+span.bouton:hover {
+	background-color: #aaaaaa;
+}
+
+#saisieuser span.bouton {
+	padding: 10px 20px 10px 20px;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.saisie tfoot tr th:nth-child(2) {
+	text-align:left;
+}
+
+#mastertitle {
+	text-align: center;
+	font-size: 50px;
+}
+
+#topNav {
+	margin: 10px 0 10px 0;
+	text-align: center;
+	background-color: #ededed;
+}
+
+#topNav button{
+	padding: 15px 20px 15px 20px;
+	font-size: 20px;
+	border: none;
+}
+
+#topNav button:hover{
+	background-color: #e8e8e8;
+}
+
+#deleteuser {
+	float: right;
+}
+
+#code {
+	width: 40px;
+}
+
+#rightNav {
+	width: auto;
+	position: absolute;
+	height: auto;
+	background-color: #ededed;
+	display: inline-block;
+	margin : 0;
+}

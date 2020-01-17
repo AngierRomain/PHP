@@ -1,0 +1,6 @@
+SetEnv PHP_VER 5_5
+SetEnv REGISTER_GLOBALS 0
+Options -Indexes
+order deny,allow
+deny from all
+Allow from 127.0.0.1
