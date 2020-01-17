@@ -17,9 +17,7 @@ class Remplisseur{
         $TAB = new Balise('table');
         $TAB->addClass('vuefour', 'alternate');
         $TAB->add('<caption>Effectuer une commande</caption>');
-        $TAB->add('<thead><tr>',
-            '<th>Libellé</th>',
-            '<th>Prix Unitaire</th><th>Quantité</th></thead>');
+        $TAB->add('<thead><tr>', '<th>Libellé</th>', '<th>Prix Unitaire</th>', '<th>Quantité</th>', '</tr></thead>');
         $TAB->add($VUECOM->getDomTbody('L;P;Q', true));
 
         $JOB = new Balise('div');
